@@ -123,6 +123,21 @@ Speakers: 4 (e.g., Anya Sharma, Ben Carter, etc.)
 
 ---
 
+
+
+## 💼 Use Cases
+
+| Use Case                        | Description                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| 🎓 **Education**                | Convert learning topics into engaging podcasts with multiple speakers.     |
+| 📰 **News Summaries**           | Automatically generate news discussion panels with AI voices.              |
+| 🧑‍💼 **Corporate Training**     | Use for internal training or orientation as interactive audio content.     |
+| 🎤 **Podcast Prototyping**      | Draft ideas for a new podcast series before hiring voice actors.           |
+| 📚 **Content Repurposing**      | Turn blog articles or summaries into podcast episodes.                     |
+
+---
+
+
 ## 🛡️ Disclaimer
 
 - This is a demo project for learning and exploration.
